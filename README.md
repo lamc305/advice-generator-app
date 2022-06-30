@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/lamc305/advice-generator-app)
--   Live Site URL: [Netlify](https://advice-generator-app-one-steel.vercel.app/)
+-   Live Site URL: [Vercel](https://advice-generator-app-one-steel.vercel.app/)
 
 ## My process
 
