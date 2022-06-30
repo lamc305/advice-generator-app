@@ -12,9 +12,6 @@ Users should be able to:
 -   See hover states for all interactive elements on the page
 -   Generate a new piece of advice by clicking the dice icon
 
-### Screenshot
-
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
 ### Links
 
